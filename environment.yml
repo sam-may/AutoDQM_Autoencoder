@@ -1,0 +1,8 @@
+name: autodqm-autoencoder 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pyaml
+  - uproot
+  - tensorflow
