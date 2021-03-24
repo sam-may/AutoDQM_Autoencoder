@@ -2,19 +2,19 @@
 
 ## Installation
 
-** 1. Clone repository **
+**1. Clone repository**
 ```
 git clone https://github.com/sam-may/AutoDQM_Autoencoder.git
 cd AutoDQM_Autoencoder
 ```
-** 2. Install dependencies **
+**2. Install dependencies**
 
 Dependencies are listed in ```environment.yml```. Install with
 ```
 conda env create -f environment.yml
 ```
 
-** 3. Install autodqm-autoencoder **
+**3. Install autodqm-autoencoder**
 
 **Users** can install with:
 ```
